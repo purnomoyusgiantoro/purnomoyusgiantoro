@@ -10,5 +10,5 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: A fun fact , I like chocolate.
+⚡ Fun fact: A fun fact , I like chocolate
 
