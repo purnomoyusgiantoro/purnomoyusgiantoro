@@ -1,6 +1,6 @@
 👋 Hi, I’m @purnomoyusgiantoro
 
-👀 I’m interested to software development, machine learning, or open-source contributions. 
+👀 I’m interested to software development, machine learning, or open-source contributions
 
 🌱 I’m currently studying, like Python,Cybersecurity
 
