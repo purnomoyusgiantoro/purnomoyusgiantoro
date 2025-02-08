@@ -4,7 +4,7 @@
 
 🌱 I’m currently studying, like Python,Cybersecurity
 
-💞️ I’m looking to collaborate on mention any specific projects or fields you want to collaborate in open-source AI projects, Cybersecurity. 
+💞️ I’m looking to collaborate on mention any specific projects or fields you want to collaborate in open-source AI projects, Cybersecurity.
 
 📫 How to reach me? my contact info and social links LinkedIn: IG:@purnomoygt_
 
