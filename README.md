@@ -8,7 +8,7 @@
 
 📫 How to reach me? my contact info and social links LinkedIn: IG:@purnomoygt_
 
-😄 Pronouns: He/Him.
+😄 Pronouns: He/Him. 
 
 ⚡ Fun fact: A fun fact , I like chocolate
 
