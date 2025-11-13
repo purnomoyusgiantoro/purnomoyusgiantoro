@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hai, Saya <a href="https://github.com/purnomoyusgiantoro">Purnomo Yusgiantoro</a>!</h1>
 
 <p align="center">
-  💻 **Pengembang Perangkat Lunak** | 🧠 **Pembelajaran Mesin** | 💡 **Inovasi Sumber Terbuka**
+  💻 Pengembang Perangkat Lunak | 🧠 Pembelajaran Mesin | 💡 Inovasi Sumber Terbuka
 </p>
 
 ---
