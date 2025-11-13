@@ -19,8 +19,8 @@
 | **🔐 Keamanan** | Keamanan Siber dan Blockchain |
 | **🌍 Kolaborasi** | Kontribusi Sumber Terbuka (Open Source) |
 
-    </td>
-    <td width="50%" align="center">
+  </td>
+  <td width="50%" align="center">
       
 ### 🌱 Saat Ini Mempelajari
 
@@ -64,14 +64,14 @@
 
 **He / Him** (Dia)
 
-    </td>
-    <td width="50%" align="center">
+  </td>
+  <td width="50%" align="center">
 
 ### ⚡ Fakta Menarik
 
 Saya bisa coding berjam-jam asalkan ada **cokelat** 🍫 dan **musik yang bagus** 🎧!
 
-    </td>
+  </td>
   </tr>
 </table>
 
