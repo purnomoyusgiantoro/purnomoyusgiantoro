@@ -97,11 +97,11 @@ Saya senang menjelajahi berbagai pustaka, alat, dan bahasa pemrograman. Berikut 
 
 ---
 
-## 🏆 Pencapaian & Trophies
+## 📊 Bahasa Pemrograman Terpopuler
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=purnomoyusgiantoro&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15" alt="Github Trophies" />
+  <a href="https://github.com/purnomoyusgiantoro">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purnomoyusgiantoro&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
   </a>
 </p>
 
