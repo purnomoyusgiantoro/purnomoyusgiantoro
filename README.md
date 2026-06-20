@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Purnomo Yusgiantoro Banner" width="700" />
-</p>
-
 <h1 align="center">Halo, Saya Purnomo Yusgiantoro 👋</h1>
 
 <p align="center">
